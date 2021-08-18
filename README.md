@@ -5,3 +5,4 @@
 - html
 - css
 - JS
+- google fonts
